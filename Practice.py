@@ -1,3 +1,2 @@
-input("what is your name?")
-name=input
-print("How are you" + name + "today?" )
+name =input("what is your name?")
+print("How are you, " + name + " today?" )
